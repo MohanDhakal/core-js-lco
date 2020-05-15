@@ -11,3 +11,4 @@ console.log('allow access to view all courses')
     console.log('message: send user an email for verification')
     
 }
+
